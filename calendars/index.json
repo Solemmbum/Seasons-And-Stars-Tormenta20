@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
   "name": "Tormenta 20 Calendar Pack",
   "description": "Coleção de Calendários de Tormenta 20 para Seasons & Stars, contém calendário de Arton.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "calendars": [
     {
       "id": "artoniano",
