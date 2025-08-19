@@ -27,7 +27,7 @@
     ]
   },
   "url": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20",
-  "manifest": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/module.json",
-  "download": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/module.zip",
+  "manifest": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/releases/download/seasons-and-stars-tormenta20-v1.0.0/module.json",
+  "download": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/releases/download/seasons-and-stars-tormenta20-v1.0.0/module.zip",
   "bugs": "https://github.com/rayners/fvtt-seasons-and-stars/issues"
 }
