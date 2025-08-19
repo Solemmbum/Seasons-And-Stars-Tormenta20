@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Tormenta 20 Calendar Pack",
+  "description": "Coleção de Calendários de Tormenta 20 para Seasons & Stars, contém calendário de Arton.",
+  "version": "0.0.1",
+  "calendars": [
+    {
+      "id": "artoniano",
+      "name": "Calendário Artoniano",
+      "description": "O calendário padrão de Arton, com 12 meses de 30 dias cada e com 3 dias de Nimb.",
+      "file": "artoniano.json",
+      "preview": "Formato de Amostra de Arton",
+      "tags": [
+        "built-in"
+      ],
+      "author": "Guilherme Dei Svaldi, JM Trevisan, Leonel Caldela, Marcelo Cassaro e Rafael Dei Svaldi."
+    }
+  ]
+}

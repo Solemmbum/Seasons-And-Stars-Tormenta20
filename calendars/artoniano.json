@@ -1,0 +1,220 @@
+{
+  "id": "artoniano",
+  "translations": {
+    "en": {
+      "label": "Calendário de Arton",
+      "description": "O calendário padrão de Arton, com 12 meses de 30 dias cada e com 3 dias de Nimb.",
+      "setting": "Tormenta 20 - Arton"
+    }
+  },
+
+  "year": {
+    "epoch": 0,
+    "currentYear": 1495,
+    "prefix": "",
+    "suffix": " AR",
+    "startDay": 0
+  },
+
+  "leapYear": {
+    "rule": "none"
+  },
+
+  "months": [
+    {
+      "name": "Caravana",
+      "abbreviation": "Car",
+      "days": 30,
+      "description": "O primeiro mês da primavera, e primeiro mês do ano, nomeado em homenagem às caravanas de refugiados de Lamnor, que terminaram sua longa jornada no início da primavera."
+    },
+    {
+      "name": "Pomo",
+      "abbreviation": "Pom",
+      "days": 30,
+      "description": "Segundo mês da primavera, quando as plantações começam a crescer."
+    },
+    {
+      "name": "Keenvia",
+      "abbreviation": "Kee",
+      "days": 30,
+      "description": "O último mês da primavera, nomeado em homenagem a Keenn, o antigo Deus da Guerra."
+    },
+    {
+      "name": "Sirravia",
+      "abbreviation": "Sir",
+      "days": 30,
+      "description": "O primeiro mês do verão, nomeado em homenagem a Sirrannamena, a Rainha Barda, considerada a primeira grande monarca da humanidade."
+    },
+    {
+      "name": "Vigília",
+      "abbreviation": "Vig",
+      "days": 30,
+      "description": "É o segundo mês do verão e tem esse nome pois nesta época Azgher, o Deus-Sol, fica alto no céu, observando tudo."
+    },
+    {
+      "name": "Prussvia",
+      "abbreviation": "Pru",
+      "days": 30,
+      "description": "Encerra a estação mais quente. Seu nome é em homensagem Roramar Pruss, fundador do reinado. Originalmente, o mês se chamaria Roravia, mas o Rei Profeta, humilde, não aceitou isso. Os clérigos de Tanna-Toh então sugeriram mudar o nome para Prussvia, em homenagem a toda a família real, proposta que teria feito Roramar se 'render'."
+    },
+    {
+      "name": "Ceifa",
+      "abbreviation": "Cei",
+      "days": 30,
+      "description": "O primeiro mês do outono, leva este nome por ser o início da colheita, uma época de muito trabalho nos campos do Reinado e além."
+    },
+    {
+      "name": "Contenda",
+      "abbreviation": "Con",
+      "days": 30,
+      "description": "O segundo mês do Outono. Antigamente um mês dedicado a duelos e resoluções de conflitos, hoje recebe importantes julgamentos em castelos e tribunais."
+    },
+    {
+      "name": "Clausura",
+      "abbreviation": "Cla",
+      "days": 30,
+      "description": "O último mês do outono, período em que os camponeses se preparam para o inverno, recolhendo comida e lenha para suas casas."
+    },
+    {
+      "name": "Pharstyth",
+      "abbreviation": "Pha",
+      "days": 30,
+      "description": "O primeiro mês do inverno. Seu nome alude à mítica arquimaga que habitava o estreito que une os dois continentes. Por que uma vilã seria homenageada, porém, permanece um mistério."
+    },
+    {
+      "name": "Véu",
+      "abbreviation": "Véu",
+      "days": 30,
+      "description": "O segundo mês do inverno, tem esse nome tanto por ser uma época de noites longas quanto como homenagem a Tenebra, que se encontra mais poderosa nesse período do ano."
+    },
+    {
+      "name": "Pyra",
+      "abbreviation": "Pyr",
+      "days": 30,
+      "description": "O inverno e o ano terminam nesse mês. O nome é uma alusão a Thyatis, o Deus das Segundas Chances, pois é isso que muitos esperam ter em um ano novo, e também ao costume artoniano dessa época, de se queimar coisas antigas e se fazer profecias em piras divinatórias."
+    }
+  ],
+
+  "weekdays": [
+    {
+      "name": "Valk",
+      "abbreviation": "Val",
+      "description": "Primeiro dia da semana, nomeado em homenagem a Valkaria."
+    },
+    {
+      "name": "Hendryl",
+      "abbreviation": "Hen",
+      "description": "Segundo dia da semana, tem o antigo nome de Khalmyr."
+    },
+    {
+      "name": "Luna",
+      "abbreviation": "Lun",
+      "description": "Terceiro dia da semana, tem o antigo nome de Lena."
+    },
+    {
+      "name": "Astar",
+      "abbreviation": "Ast",
+      "description": "Quarto dia da semana, tem o nome feérico de Azgher."
+    },
+    {
+      "name": "Dallia",
+      "abbreviation": "Dal",
+      "description": "Quinto dia da semana, tem o nome élfico de Wynna."
+    },
+    {
+      "name": "Haya",
+      "abbreviation": "Hay",
+      "description": "Sexto dia da semana, tem o nome pelo qual as fadas chamam Marah. É considerado um dia de festas e diversão."
+    },
+    {
+      "name": "Leen",
+      "abbreviation": "Lee",
+      "description": "Sétimo dia da semana, tem o nome da antiga faceta de Ragnar, o Deus da Morte. É considerado um dia reservado ao repouso, o dia do 'descanso dos mortos', como os camponeses dizem."
+    }
+  ],
+
+  "intercalary": [
+    {
+      "name": "Dia de Nimb",
+      "after": "Pomo",
+      "leapYearOnly": false,
+      "countsForWeekdays": false,
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+    },
+    {
+      "name": "Dia de Nimb",
+      "after": "Sirravia",
+      "leapYearOnly": false,
+      "countsForWeekdays": false,
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+    },
+    {
+      "name": "Dia de Nimb",
+      "after": "Pharstyth",
+      "leapYearOnly": false,
+      "countsForWeekdays": false,
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+    }
+  ],
+
+  "moons": [
+    {
+      "name": "Luas",
+      "cycleLength": 30,
+      "firstNewMoon": { "year": 1495, "month": 1, "day": 1 },
+      "phases": [
+        { "name": "Lua Nova", "length": 1, "singleDay": true, "icon": "new" },
+        { "name": "Quarto Crescente", "length": 7, "singleDay": false, "icon": "waxing-crescent" },
+        { "name": "Primeiro Quarto", "length": 1, "singleDay": true, "icon": "first-quarter" },
+        { "name": "Gibosa Crescente", "length": 6, "singleDay": false, "icon": "waxing-gibbous" },
+        { "name": "Lua Cheia", "length": 1, "singleDay": true, "icon": "full" },
+        { "name": "Gibosa Minguante", "length": 6, "singleDay": false, "icon": "waning-gibbous" },
+        { "name": "Último Quarto", "length": 1, "singleDay": true, "icon": "last-quarter" },
+        { "name": "Crescente Minguante", "length": 7, "singleDay": false, "icon": "waning-crescent" }
+      ],
+      "color": "#c0c0c0",
+      "translations": {
+        "en": {
+          "description": "O reino de Lena, a deusa da Vida."
+        }
+      }
+    }
+  ],
+
+  "seasons": [
+    {
+      "name": "Inverno",
+      "startMonth": 10,
+      "endMonth": 12,
+      "icon": "winter",
+      "description": "A estação mais fria do ano, e também a com os dias mais curtos."
+    },
+    {
+      "name": "Primavera",
+      "startMonth": 1,
+      "endMonth": 3,
+      "icon": "spring",
+      "description": "A estação de renovação, durante a qual Allihana espalha sua benção por Arton."
+    },
+    {
+      "name": "Verão",
+      "startMonth": 4,
+      "endMonth": 6,
+      "icon": "summer",
+      "description": "A estação dominada por Azgher."
+    },
+    {
+      "name": "Outono",
+      "startMonth": 7,
+      "endMonth": 9,
+      "icon": "fall",
+      "description": "A estação da colheita, também dedicada para as preparações para o Inverno."
+    }
+  ],
+
+  "time": {
+    "hoursInDay": 24,
+    "minutesInHour": 60,
+    "secondsInMinute": 60
+  }
+}
