@@ -1,7 +1,12 @@
 {
-  "id": "artoniano",
+  "id": "artonian",
   "translations": {
     "en": {
+      "label": "Artonian Calendar",
+      "description": "The default Arton Calendar, with 12 months of 30 days each and 3 Nimb Days.",
+      "setting": "Tormenta 20 - Arton"
+    },
+    "pt": {
       "label": "Calendário de Arton",
       "description": "O calendário padrão de Arton, com 12 meses de 30 dias cada e com 3 dias de Nimb.",
       "setting": "Tormenta 20 - Arton"
@@ -139,21 +144,21 @@
       "after": "Pomo",
       "leapYearOnly": false,
       "countsForWeekdays": false,
-      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso muitas pessoas passam esses dias em suas casas, esperando que essa época acabe!"
     },
     {
       "name": "Dia de Nimb",
       "after": "Sirravia",
       "leapYearOnly": false,
       "countsForWeekdays": false,
-      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso muitas pessoas passam esses dias em suas casas, esperando que essa época acabe!"
     },
     {
       "name": "Dia de Nimb",
       "after": "Pharstyth",
       "leapYearOnly": false,
       "countsForWeekdays": false,
-      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso tudo, muitas pessoas passam esses dias fechadas em suas casas, simplesmente esperando que essa época acabe!"
+      "description": "Durante os Dias de Nimb, eventos estranhos acontecem: tibares caem do céu como chuva; árvores levantam suas raízes e se colocam em marcha, destruindo tudo em seu caminho; vacas dão gorad quente em vez de leite… Além disso, clérigos de Nimb vagam pelo Reinado fazendo decretos malucos que, nesse período, carregam peso de lei (no resto do ano, as sandices dos devotos do Caos tendem a ser ignoradas). Por isso muitas pessoas passam esses dias em suas casas, esperando que essa época acabe!"
     }
   ],
 
