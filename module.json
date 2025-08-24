@@ -1,6 +1,6 @@
 {
   "id": "seasons-and-stars-tormenta20",
-  "title": "Seasons & Stars - Tormenta 20",
+  "title": "Seasons & Stars - Tormenta 20 Calendar Pack",
   "description": "Coleção de Calendários de Tormenta 20 para Seasons & Stars, contém calendário de Arton.",
   "version": "1.0.0",
   "compatibility": {
@@ -29,5 +29,5 @@
   "url": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20",
   "manifest": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/releases/download/seasons-and-stars-tormenta20-v1.0.0/module.json",
   "download": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/releases/download/seasons-and-stars-tormenta20-v1.0.0/module.zip",
-  "bugs": "https://github.com/rayners/fvtt-seasons-and-stars/issues"
+  "bugs": "https://github.com/Solemmbum/Seasons-And-Stars-Tormenta20/issues"
 }
